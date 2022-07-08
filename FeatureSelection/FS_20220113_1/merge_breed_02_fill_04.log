@@ -1,0 +1,52 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile ./SourceDataFile/MergeBreed03/merge_breed_02_fill_04
+  --indep-pairwise 50 5 0.015
+  --out ./FeatureSelection/FS_20220113_1/merge_breed_02_fill_04
+
+Hostname: WIN-0I0J7NAE7JB
+Working directory: E:\R\RCode_ResearchProject\RCode_Github
+Start time: Thu Jan 13 15:06:54 2022
+
+Random number seed: 1642057614
+32506 MB RAM detected; reserving 16253 MB for main workspace.
+35790 variants loaded from .bim file.
+654 people (84 males, 210 females, 360 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+./FeatureSelection/FS_20220113_1/merge_breed_02_fill_04.nosex .
+80 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 654 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 2430 het. haploid genotypes present (see
+./FeatureSelection/FS_20220113_1/merge_breed_02_fill_04.hh ); many commands
+treat these as missing.
+Total genotyping rate is exactly 1.
+35790 variants and 654 people pass filters and QC.
+Phenotype data is quantitative.
+--indep-pairwise: Ignoring 5459 chromosome 0 variants.
+Pruned 3332 variants from chromosome 1, leaving 61.
+Pruned 1958 variants from chromosome 2, leaving 43.
+Pruned 1624 variants from chromosome 3, leaving 37.
+Pruned 2000 variants from chromosome 4, leaving 41.
+Pruned 1268 variants from chromosome 5, leaving 25.
+Pruned 1907 variants from chromosome 6, leaving 34.
+Pruned 1822 variants from chromosome 7, leaving 44.
+Pruned 1545 variants from chromosome 8, leaving 39.
+Pruned 1830 variants from chromosome 9, leaving 40.
+Pruned 1046 variants from chromosome 10, leaving 28.
+Pruned 1035 variants from chromosome 11, leaving 24.
+Pruned 909 variants from chromosome 12, leaving 25.
+Pruned 2252 variants from chromosome 13, leaving 49.
+Pruned 2264 variants from chromosome 14, leaving 42.
+Pruned 1630 variants from chromosome 15, leaving 32.
+Pruned 1047 variants from chromosome 16, leaving 30.
+Pruned 953 variants from chromosome 17, leaving 21.
+Pruned 762 variants from chromosome 18, leaving 20.
+Pruned 505 variants from chromosome 23, leaving 7.
+Pruning complete.  29689 of 30331 variants removed.
+Marker lists written to
+./FeatureSelection/FS_20220113_1/merge_breed_02_fill_04.prune.in and
+./FeatureSelection/FS_20220113_1/merge_breed_02_fill_04.prune.out .
+
+End time: Thu Jan 13 15:06:54 2022

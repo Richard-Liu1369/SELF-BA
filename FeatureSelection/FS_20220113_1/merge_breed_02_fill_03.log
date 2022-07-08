@@ -1,0 +1,15 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile ./SourceDataFile/MergeBreed/merge_breed_02_fill_03
+  --indep-pairwise 50 5 0.015
+  --out ./FeatureSelection/FS_20220113_1/merge_breed_02_fill_03
+
+Hostname: WIN-0I0J7NAE7JB
+Working directory: E:\R\RCode_ResearchProject\RCode_Github
+Start time: Thu Jan 13 15:05:39 2022
+
+Random number seed: 1642057539
+32506 MB RAM detected; reserving 16253 MB for main workspace.
+Error: Failed to open ./SourceDataFile/MergeBreed/merge_breed_02_fill_03.bed.
+
+End time: Thu Jan 13 15:05:39 2022
